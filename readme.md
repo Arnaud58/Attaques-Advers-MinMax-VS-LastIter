@@ -11,3 +11,5 @@ Il a été décider d'essayer ces méthodes avec deux types d'attaque différent
 Chaque fichier *.ipynb* contient une implémentation de la méthode faite avec une attaque différente, pour un total de quatre fichiers. Le nom de chaque fichier contient le nom de la méthode et de l'attaque utilisé tel que *methode_attaque.ipynb*.
 
 Les attaques adverses sont générées via la librairie foolbox dans sa version 2.4. Ci-jointe la documentation de foolbox pour [FGSM](https://foolbox.readthedocs.io/en/v2.4.0/modules/attacks/gradient.html#foolbox.attacks.GradientAttack) et [PGD](https://foolbox.readthedocs.io/en/v2.4.0/modules/attacks/gradient.html#foolbox.attacks.L2BasicIterativeAttack).
+
+Le rapport de ce projet se trouve sur overleaf à ctte adresse -> https://www.overleaf.com/read/cyyskcyfkyrw
